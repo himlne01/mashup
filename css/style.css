@@ -1,0 +1,24 @@
+* {
+    margin: 15px;
+}
+h1 {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-family: 'Lato', sans-serif;
+}
+.row {
+    display: block;
+    margin: 15px;
+}
+.col {
+    display: inline-block;
+}
+p {
+    margin-bottom: 0.5rem;
+}
+input {
+    margin-bottom: 10px;
+}
+.btn-primary {
+    margin-bottom: 20px;
+}
